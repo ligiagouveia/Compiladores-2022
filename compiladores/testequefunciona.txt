@@ -1,0 +1,16 @@
+var A=100
+var B=50
+var C=10
+
+
+se(A<B e C>B){
+	repitaate(A>C){
+		A--
+		mostrar A
+	}
+}
+senao{
+	repitapara(var D=0;D<A;D++){
+		mostrar D
+	}
+}

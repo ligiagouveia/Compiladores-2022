@@ -1,0 +1,8 @@
+var A = 15
+var A=20
+var B=10
+C=10
+
+A=B/0
+
+a=B
